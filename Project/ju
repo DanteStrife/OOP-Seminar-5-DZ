@@ -1,0 +1,19 @@
+switch(dayOfWeek)
+{
+    case "понедельник":
+    System.Console.WriteLine("Идем в кино.");
+    System.Console.WriteLine("Едим попкорн.");
+    break;
+    case "Вторник":
+    System.Console.WriteLine("Проходим курсы.");
+    break;
+    case "Среда":
+    System.Console.WriteLine("Изучаем switch/");
+    break;
+    case "Четверг":
+    System.Console.WriteLine("Практикуем приложение.");
+    break;
+    case "Пятница":
+    System.Console.WriteLine("Выходной.");
+    break;
+}
