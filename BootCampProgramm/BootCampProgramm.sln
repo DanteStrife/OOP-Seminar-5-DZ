@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Camp", "Camp", "{65A9B513-A28B-4870-A483-7B0C27DC60E5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson 3. Big O Notation", "Camp\Lesson 3. Big O Notation\Lesson 3. Big O Notation.csproj", "{13A96FA4-76D9-4E8B-9F77-B212FE329292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13A96FA4-76D9-4E8B-9F77-B212FE329292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13A96FA4-76D9-4E8B-9F77-B212FE329292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13A96FA4-76D9-4E8B-9F77-B212FE329292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13A96FA4-76D9-4E8B-9F77-B212FE329292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{13A96FA4-76D9-4E8B-9F77-B212FE329292} = {65A9B513-A28B-4870-A483-7B0C27DC60E5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24523639-9FC1-492E-A968-33A612606580}
+	EndGlobalSection
+EndGlobal
